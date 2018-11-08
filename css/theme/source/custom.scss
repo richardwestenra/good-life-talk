@@ -170,6 +170,22 @@ $selectionBackgroundColor: #e7ad52;
         font-weight: normal;
       }
     }
+
+    .criminals {
+      margin-bottom: 1em;
+      background: url('../../img/moralmachine2.jpg') center -33%;
+      background-size: 100% auto;
+      width: 100%;
+      padding-bottom: 30%;
+    }
+
+    .doctors {
+      background: url('../../img/moralmachine2.jpg') center 32%;
+      background-size: 100% auto;
+      width: 100%;
+      margin: 9em auto 1em;
+      padding-bottom: 11%;
+    }
   }
 
   .speaker-notes {
